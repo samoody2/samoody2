@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samoody2
 - 👀 I’m interested in web dev, databases, and data structures + algorithms
-- 🌱 I’m currently learning web dev and DS + A
+- 🌱 I’m currently learning Java and DS + A
 - 💞️ I’m looking to collaborate on apps that implement APIs
 
 <!---
